@@ -1,2 +1,5 @@
 # centrifuge
-Centrifuge, 1000-3000 G's RCF
+EC90Fl driving rotation centrifuge. Slip ring at top provided power and CAN communication to 2 EPOS4 controllers.
+Two brushless motor spindle combinations installed at either end of the centrifuge pushing a nut against a spring to simulate a load. 
+Goal was to test effect of 1000-3000 g's of RCF, got to about 2000 g's.
+
